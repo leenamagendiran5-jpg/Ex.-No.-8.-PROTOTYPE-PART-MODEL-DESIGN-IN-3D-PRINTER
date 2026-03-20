@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1051" height="633" alt="image" src="https://github.com/user-attachments/assets/b28abac3-18b6-4fad-959f-1624124fc755" />
+
+### Name: LEENA SHREE M
+### Register Number:212225220056
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
